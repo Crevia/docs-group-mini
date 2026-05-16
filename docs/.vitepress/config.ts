@@ -11,10 +11,17 @@ export default defineConfig({
       title: 'Group Mini Docs',
       description: 'Group Mini knowledge base',
       themeConfig: {
-        nav: [{ text: 'Guide', link: '/guide/' }],
+        nav: [
+          { text: 'Guide', link: '/guide/' },
+          { text: 'App', link: 'https://group-mini.smartxuls.club/' }
+        ],
         sidebar: {
           '/guide/': [
             { text: 'Introduction', link: '/guide/' }
+          ],
+          '/': [
+            { text: 'Authentication', link: '/auth' },
+            { text: 'Profile', link: '/profile' }
           ]
         }
       }
@@ -25,7 +32,10 @@ export default defineConfig({
       title: 'Docs Group Mini',
       description: 'Base de conocimiento de Group Mini',
       themeConfig: {
-        nav: [{ text: 'Guía', link: '/es/guide/' }],
+        nav: [
+          { text: 'Guía', link: '/es/guide/' },
+          { text: 'App', link: 'https://group-mini.smartxuls.club/' }
+        ],
         sidebar: {
           '/es/guide/': [
             { text: 'Introducción', link: '/es/guide/' }
@@ -39,7 +49,10 @@ export default defineConfig({
       title: 'Endagaano ya Group Mini',
       description: 'Ekitabo ky\'obumanyirivu bwa Group Mini',
       themeConfig: {
-        nav: [{ text: 'Ebiragiro', link: '/lg/guide/' }],
+        nav: [
+          { text: 'Ebiragiro', link: '/lg/guide/' },
+          { text: 'App', link: 'https://group-mini.smartxuls.club/' }
+        ],
         sidebar: {
           '/lg/guide/': [
             { text: 'Ennyanjula', link: '/lg/guide/' }
@@ -49,9 +62,5 @@ export default defineConfig({
     }
   },
 
-  themeConfig: {
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/crevia/docs-group-mini' }
-    ]
-  }
+
 })
