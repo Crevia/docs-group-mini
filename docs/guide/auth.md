@@ -38,12 +38,4 @@ You can also create an account using Google.
 
 After registration, if your email is unconfirmed, you may see a message or restricted access until you verify it. Follow the link sent to your email to complete verification.
 
-## Use of Accounts
 
-The application supports using Demo accounts for testing and evaluation. The following accounts are available with the password being the same as the email:
-- `crevia12@yahoo.com`
-- `.crevia21@gmail.com`
-- `tf2bd4p47@mozmail.com`
-- `6t7x24lv2@mozmail.com`
-
-Please use these accounts responsibly.

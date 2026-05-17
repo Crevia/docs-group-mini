@@ -15,9 +15,10 @@ To view and update your profile:
 
 ### Identity Verification
 
-The application includes an identity verification process.
+The application includes an identity verification process to ensure security and compliance.
 - **Verification Status**: You can see your current status (e.g., "Verification Failed" or "Verified").
-- **Verification Blocked**: In some cases, such as when a duplicate account is detected, verification may be blocked to protect platform security.
+- **Verification Blocked**: In some cases, such as when a duplicate account is detected, verification may be blocked. If this happens, you must contact support to resolve the issue.
+- **Failed Verification**: If your verification fails, you may be allowed to retry after a cooldown period or by providing alternative documents.
 
 ## Privacy & Visibility
 

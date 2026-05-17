@@ -13,6 +13,9 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Guide', link: '/guide/' },
+          { text: 'Help', link: '/help' },
+          { text: 'Feedback', link: '/feedback' },
+          { text: 'About', link: '/about' },
           { text: 'App', link: 'https://group-mini.smartxuls.club/' }
         ],
         sidebar: {
@@ -44,6 +47,20 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: 'Overview', link: '/guide/accounts' }
+              ]
+            },
+            {
+              text: 'Support',
+              collapsed: false,
+              items: [
+                { text: 'Live Chat', link: '/guide/support' }
+              ]
+            },
+            {
+              text: 'Troubleshooting',
+              collapsed: false,
+              items: [
+                { text: 'Edge Cases', link: '/guide/troubleshooting' }
               ]
             }
           ]
