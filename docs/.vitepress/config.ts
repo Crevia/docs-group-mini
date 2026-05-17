@@ -13,22 +13,25 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Guide', link: '/guide/' },
-          { text: 'Authentication', link: '/auth' },
-          { text: 'Profile', link: '/profile' },
           { text: 'App', link: 'https://group-mini.smartxuls.club/' }
         ],
         sidebar: {
           '/guide/': [
-            { text: '← Home', link: '/' },
-            { text: 'Introduction', link: '/guide/' }
-          ],
-          '/auth': [
-            { text: '← Home', link: '/' },
-            { text: 'Authentication', link: '/auth' }
-          ],
-          '/profile': [
-            { text: '← Home', link: '/' },
-            { text: 'Profile', link: '/profile' }
+            { text: 'Introduction', link: '/guide/' },
+            {
+              text: 'Authentication',
+              collapsed: false,
+              items: [
+                { text: 'Overview', link: '/guide/auth' }
+              ]
+            },
+            {
+              text: 'Profile',
+              collapsed: false,
+              items: [
+                { text: 'Overview', link: '/guide/profile' }
+              ]
+            }
           ]
         }
       }
