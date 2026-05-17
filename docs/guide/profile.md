@@ -32,3 +32,17 @@ In the settings section of your profile, you can manage how others interact with
 - **Disable Email Address Discovery**: Prevent others from finding you via your email address.
 
 ![Settings](/images/settings_prod.png)
+
+## Group Invitations
+
+You can manage your pending group invitations from your profile.
+
+![Group Invitations](/images/invitations_list.png)
+
+Here you can see:
+- **Group Name**: The name of the group you were invited to.
+- **Role**: The role you will have in the group.
+- **Invited At**: Date of the invitation.
+
+Click the **Green Check** to accept the invitation or the **Red X** to reject it.
+

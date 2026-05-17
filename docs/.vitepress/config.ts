@@ -31,6 +31,20 @@ export default defineConfig({
               items: [
                 { text: 'Overview', link: '/guide/profile' }
               ]
+            },
+            {
+              text: 'Groups',
+              collapsed: false,
+              items: [
+                { text: 'Overview', link: '/guide/groups' }
+              ]
+            },
+            {
+              text: 'Accounts',
+              collapsed: false,
+              items: [
+                { text: 'Overview', link: '/guide/accounts' }
+              ]
             }
           ]
         }
