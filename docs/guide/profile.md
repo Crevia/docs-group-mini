@@ -1,21 +1,34 @@
 # Profile
 
-This guide covers how to update your profile information and verify your identity in the Group Mini application.
+This guide covers how to manage your user profile, privacy settings, and identity verification in the Group Mini application.
 
-## Updating Your Profile
+## User Profile
 
-To update your profile:
-1. Navigate to the Profile section (usually via the settings menu or user icon).
-2. Update your details such as Name, Email, or other personal information.
-3. Save changes.
+To view and update your profile:
+1. Access the Profile section from the menu.
+2. You can view your personal details such as:
+   - First Name
+   - Last Name
+   - Date of Birth
 
-![Profile Page](/images/profile.png)
+![User Profile](/images/profile_prod.png)
 
-## Verifying Identity
+### Identity Verification
 
-To verify your identity:
-1. Go to the Profile or Settings section.
-2. Look for the "Identity Verification" tab or section.
-3. Follow the instructions to upload required documents or information.
+The application includes an identity verification process.
+- **Verification Status**: You can see your current status (e.g., "Verification Failed" or "Verified").
+- **Verification Blocked**: In some cases, such as when a duplicate account is detected, verification may be blocked to protect platform security.
 
-Follow the on-screen instructions to complete the process.
+## Privacy & Visibility
+
+In the settings section of your profile, you can manage how others interact with you:
+
+### Privacy
+- **Disable Group Invites**: Toggle to prevent other users from inviting you to join their groups.
+- **Hide Public Group Membership**: Toggle to hide your group memberships from your public profile.
+
+### Discovery
+- **Disable Phone Number Discovery**: Prevent others from finding you via your phone number.
+- **Disable Email Address Discovery**: Prevent others from finding you via your email address.
+
+![Settings](/images/settings_prod.png)
