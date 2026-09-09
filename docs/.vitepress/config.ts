@@ -21,7 +21,7 @@ export default defineConfig({
           { text: 'Help', link: '/help' },
           { text: 'Feedback', link: '/feedback' },
           { text: 'About', link: '/about' },
-          { text: 'App', link: 'https://group-mini.smartxuls.club/' }
+          { text: 'App', link: 'https://app.fitunza.com/' }
         ],
         sidebar: {
           '/guide/': [
@@ -81,7 +81,7 @@ export default defineConfig({
         logo: '/logo.svg',
         nav: [
           { text: 'Guía', link: '/es/guide/' },
-          { text: 'App', link: 'https://group-mini.smartxuls.club/' }
+          { text: 'App', link: 'https://app.fitunza.com/' }
         ],
         sidebar: {
           '/es/guide/': [
@@ -99,7 +99,7 @@ export default defineConfig({
         logo: '/logo.svg',
         nav: [
           { text: 'Ebiragiro', link: '/lg/guide/' },
-          { text: 'App', link: 'https://group-mini.smartxuls.club/' }
+          { text: 'App', link: 'https://app.fitunza.com/' }
         ],
         sidebar: {
           '/lg/guide/': [

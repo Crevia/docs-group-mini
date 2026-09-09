@@ -5,7 +5,7 @@ This guide covers how to access the FiTunza application, create an account, and 
 ## Logging In
 
 To log in to your account:
-1. Navigate to the login page at `https://group-mini.smartxuls.club/login`.
+1. Navigate to the login page at `https://app.fitunza.com/login`.
 2. Enter your Email or Phone number.
 3. Enter your Password.
 4. Click "Sign in".
