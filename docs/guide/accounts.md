@@ -1,6 +1,6 @@
 # Accounts
 
-This guide covers how to manage your accounts (organizations or projects) in the Group Mini application.
+This guide covers how to manage your accounts (organizations or projects) in the FiTunza application.
 
 ## Overview
 

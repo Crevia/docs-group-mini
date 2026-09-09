@@ -1,19 +1,21 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Group Mini Docs',
+  title: 'FiTunza Docs',
   base: '/',
   head: [
-    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' }]
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }]
   ],
 
   locales: {
     root: {
       label: 'English',
       lang: 'en',
-      title: 'Group Mini Docs',
-      description: 'Group Mini knowledge base',
+      title: 'FiTunza Docs',
+      description: 'FiTunza knowledge base',
       themeConfig: {
+        logo: '/logo.svg',
         nav: [
           { text: 'Guide', link: '/guide/' },
           { text: 'Help', link: '/help' },
@@ -73,9 +75,10 @@ export default defineConfig({
     es: {
       label: 'Español',
       lang: 'es',
-      title: 'Docs Group Mini',
-      description: 'Base de conocimiento de Group Mini',
+      title: 'Docs FiTunza',
+      description: 'Base de conocimiento de FiTunza',
       themeConfig: {
+        logo: '/logo.svg',
         nav: [
           { text: 'Guía', link: '/es/guide/' },
           { text: 'App', link: 'https://group-mini.smartxuls.club/' }
@@ -90,9 +93,10 @@ export default defineConfig({
     lg: {
       label: 'Luganda',
       lang: 'lg',
-      title: 'Endagaano ya Group Mini',
-      description: 'Ekitabo ky\'obumanyirivu bwa Group Mini',
+      title: 'Endagaano ya FiTunza',
+      description: 'Ekitabo ky\'obumanyirivu bwa FiTunza',
       themeConfig: {
+        logo: '/logo.svg',
         nav: [
           { text: 'Ebiragiro', link: '/lg/guide/' },
           { text: 'App', link: 'https://group-mini.smartxuls.club/' }

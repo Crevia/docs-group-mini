@@ -1,10 +1,10 @@
 # Help
 
-Find answers to common questions and learn how to get the most out of Group Mini.
+Find answers to common questions and learn how to get the most out of FiTunza.
 
 ## Getting Started
 
-- [Introduction](/guide/) — Overview of Group Mini and its core concepts
+- [Introduction](/guide/) — Overview of FiTunza and its core concepts
 - [Authentication](/guide/auth) — How to sign up, log in, and manage your session
 - [Profile](/guide/profile) — Setting up and managing your user profile
 

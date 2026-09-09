@@ -1,6 +1,6 @@
 # Feedback
 
-We value your input. Your feedback helps us improve Group Mini for everyone.
+We value your input. Your feedback helps us improve FiTunza for everyone.
 
 ## How to Share Feedback
 
@@ -23,4 +23,4 @@ Good feedback includes:
 
 We review all feedback regularly. For critical bugs affecting account access or financial data, we prioritize resolution. Feature requests are evaluated against current roadmap priorities.
 
-Thank you for helping make Group Mini better.
+Thank you for helping make FiTunza better.

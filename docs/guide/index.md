@@ -1,3 +1,3 @@
 # Introduction
 
-Welcome to the Group Mini knowledge base.
+Welcome to the FiTunza knowledge base.

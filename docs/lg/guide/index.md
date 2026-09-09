@@ -1,3 +1,3 @@
 # Ennyanjula
 
-Mukaabalirizibwa mu kitabo ky'obumanyirivu bwa Group Mini.
+Mukaabalirizibwa mu kitabo ky'obumanyirivu bwa FiTunza.

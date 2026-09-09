@@ -1,6 +1,6 @@
 # Groups
 
-This guide covers how to create, join, and manage groups in the Group Mini application.
+This guide covers how to create, join, and manage groups in the FiTunza application.
 
 ## Onboarding and Prerequisites
 

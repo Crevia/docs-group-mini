@@ -1,10 +1,10 @@
 # About Us
 
-Group Mini is a platform for managing savings groups — sometimes called SACCOs, chamas, or rotating savings clubs.
+FiTunza is a platform for managing savings groups — sometimes called SACCOs, chamas, or rotating savings clubs.
 
 ## What We Do
 
-Group Mini makes it easy for groups of people to pool money, track contributions, manage payouts, and stay organized — all in one place.
+FiTunza makes it easy for groups of people to pool money, track contributions, manage payouts, and stay organized — all in one place.
 
 Key capabilities:
 
@@ -20,4 +20,4 @@ To make informal financial cooperation accessible, transparent, and trustworthy 
 
 ## Documentation
 
-This documentation site covers everything you need to use Group Mini effectively. Start with the [Guide](/guide/) or visit the [Help](/help) page for common questions.
+This documentation site covers everything you need to use FiTunza effectively. Start with the [Guide](/guide/) or visit the [Help](/help) page for common questions.

@@ -1,6 +1,6 @@
 # Authentication
 
-This guide covers how to access the Group Mini application, create an account, and manage your credentials.
+This guide covers how to access the FiTunza application, create an account, and manage your credentials.
 
 ## Logging In
 

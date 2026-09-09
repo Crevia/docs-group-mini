@@ -1,3 +1,3 @@
 # Introducción
 
-Bienvenido a la base de conocimiento de Group Mini.
+Bienvenido a la base de conocimiento de FiTunza.

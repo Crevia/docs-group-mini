@@ -1,6 +1,6 @@
 # Profile
 
-This guide covers how to manage your user profile, privacy settings, and identity verification in the Group Mini application.
+This guide covers how to manage your user profile, privacy settings, and identity verification in the FiTunza application.
 
 ## User Profile
 

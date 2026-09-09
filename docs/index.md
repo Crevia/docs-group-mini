@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: Group Mini
+  name: FiTunza
   tagline: Knowledge base
   actions:
     - theme: brand
